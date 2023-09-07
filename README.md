@@ -3,7 +3,12 @@
 - 👩‍💻 Aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">Unopar</a>.
 - 💼 Trabalhando como **Assistente de Suporte - TI** na <a href="https://www.agirsaude.org.br/">AGIR</a>
-- 🌱 &nbsp;Aprendendo cada dia mais sobre Programação 
+- 🌱 &nbsp;Aprendendo cada dia mais sobre Programação
+- While (noSucess):
+         tryAgain
+- if (you > dead):
+		break
+	 
 
 ##
 
