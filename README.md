@@ -26,8 +26,8 @@
 <details>
     <sumary>:zap: Github Stats</sumary>
     <div style="display: inline_block"><br>
-    <img align="center" width="49%" height="195px" alt="henriquestron" src="https://github-readme-stats.vercel.app/api?username=henriquestron&show_icons=true&theme=dracula" /></a>
-    <img align="center" width="49%" height="195px" alt="henriquestron" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquestron&layout=compact&langs_count=8&card_width=320&theme=dracula" /></a>
+        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquestron&show_icons=true&theme=transparent)
 </div>
 
 
