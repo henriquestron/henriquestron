@@ -25,7 +25,7 @@ if (you > dead):<br>
 
 ##
 <div><h3>Onde me encontrar</h3>
-    <a href="https://instagram.com/vitorhenriquego?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
+    <a href="https://instagram.com/vhenriqgo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
   <a href = "mailto:vitor2017go@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-henrique-492738194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%239990?style=for-the-badge&logo=linkedin&logoColor=blue" 
   target="_blank"></a>
