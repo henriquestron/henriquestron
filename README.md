@@ -13,8 +13,11 @@ if (you > dead):<br>
 ##
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />    
+    <img align="center" alt="vitor-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />    
+    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" /> 
+    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />    
+    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
           
 </div>
 
