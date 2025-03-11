@@ -18,6 +18,8 @@ if (you > dead):<br>
     <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" /> 
     <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />    
     <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+    
    
           
 </div>
