@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+my+name+is+Vitor+Henrique;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
 
 - 👩‍💻 Aprendendo novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">Unopar</a>.
+- 🎓 Formado em **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">Unopar</a>.
 - 💼 Trabalhando como **Assistente de Suporte - TI** na <a href="https://www.agirsaude.org.br/">AGIR</a>
 - 🌱 &nbsp;Aprendendo cada dia mais sobre Programação
 
