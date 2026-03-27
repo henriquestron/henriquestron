@@ -2,7 +2,7 @@
 
 - 👩‍💻 Aprendendo novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado em **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">Unopar</a>.
-- 💼 Trabalhando como **Assistente de Suporte - TI** na <a href="https://www.agirsaude.org.br/">AGIR</a>
+- 💼 Trabalhando como **Analista de TI** na <a href="https://www.agirsaude.org.br/">AGIR</a>
 - 🌱 &nbsp;Aprendendo cada dia mais sobre Programação
 
 <h3>While(noSucess):<br>
