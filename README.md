@@ -1,46 +1,38 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+my+name+is+Vitor+Henrique;Welcome+to+my+GitHub+Profile!:%29)](https://git.io/typing-svg)
-
-- 👩‍💻 Aprendendo novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formado em **Analise e Desenvolvimento de Sistemas** na <a href="https://www.unopar.com.br/">Unopar</a>.
-- 💼 Trabalhando como **Analista de TI** na <a href="https://www.agirsaude.org.br/">AGIR</a>
-- 🌱 &nbsp;Aprendendo cada dia mais sobre Programação
-
-<h3>While(noSucess):<br>
-----tryAgain <br>
-if (you > dead):<br>
-----break </h3>	 
-
-##
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="vitor-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />    
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" /> 
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />    
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
-    <img align="center" alt="vitor-JAVA" width='50' height='50' scr=<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
-    
-   
-          
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vitor+Henrique!;Bem-vindo+ao+meu+perfil+no+GitHub!+%3A%29" alt="Typing SVG" />
+  </a>
 </div>
 
+<br/>
 
+<div align="center">
+  <h3>👨🏻‍💻 Sobre mim</h3>
+  <p>
+    Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela <a href="https://www.unopar.com.br/" target="_blank">Unopar</a>.<br>
+    Trabalhando como <b>Analista de TI</b> na <a href="https://www.agirsaude.org.br/" target="_blank">AGIR</a>.<br>
+    Sempre aprendendo novas tecnologias e desenvolvendo soluções eficientes de software.
+  </p>
 
-##
-<div><h3>Onde me encontrar</h3>
-    <a href="https://instagram.com/vhenriqgo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%239990?style=for-the-badge&logo=instagram&logoColor=pink-purple" target="_blank"></a>
-  <a href = "mailto:vitor2017go@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%239990?style=for-the-badge&logo=gmail&logoColor=redblack" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-henrique-492738194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%239990?style=for-the-badge&logo=linkedin&logoColor=blue" 
-  target="_blank"></a>
-   
-</div> 
+```python
+while not success:
+    try_again()
+    if you == dead:
+        break
 
-##
-<details>
-    <sumary>:zap: Github Stats</sumary>
-    <div style="display: inline_block"><br>
-        
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquestron&show_icons=true&theme=transparent)
+🚀 Minha Stack e Tecnologias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-
+📊 Estatísticas do GitHub
+📫 Onde me encontrar
