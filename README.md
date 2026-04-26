@@ -14,7 +14,7 @@
     Sempre aprendendo novas tecnologias e desenvolvendo soluções eficientes de software.
   </p>
 
-```python
+
 while not success:
     try_again()
     if you == dead:
